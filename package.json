@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@adonisjs/assembler": "^3.0.6",
+    "@types/pdfkit": "^0.11.0",
     "adonis-preset-ts": "^2.0.0",
     "eslint": "^7.20.0",
     "eslint-plugin-adonis": "^1.2.1",
@@ -23,6 +24,7 @@
     "@adonisjs/lucid": "^10.0.0",
     "@adonisjs/repl": "^1.1.6",
     "luxon": "^1.26.0",
+    "pdfkit": "^0.11.0",
     "proxy-addr": "^2.0.6",
     "reflect-metadata": "^0.1.13",
     "source-map-support": "^0.5.19",

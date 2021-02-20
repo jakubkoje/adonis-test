@@ -34,3 +34,4 @@ Route.get('health', async ({ response }) => {
 })
 
 Route.resource('movies', 'MoviesController')
+Route.post('pdfs', 'PdfsController.store')
